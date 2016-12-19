@@ -5,8 +5,8 @@ date: "2016/12/9"
 output: html_document
 ---
 
-```{r setup, include=TRUE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ![](http://img.carnews.com/news_img/op189web/op189-a09-part1-J3.jpg)
