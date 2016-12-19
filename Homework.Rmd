@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set
 ```
 
 ![](http://img.carnews.com/news_img/op189web/op189-a09-part1-J3.jpg)
